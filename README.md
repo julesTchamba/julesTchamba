@@ -1,4 +1,4 @@
-Candidate for the engineering profession (CPI) in Canada, I have initial training as a network administrator; subsequently,
+Software engineer in Canada, I have initial training as a network administrator; subsequently,
 I became interested in programming; which led me to the Bachelor of Software Engineering.
 Analysis, design, coding, testing and software architecture are part of my daily professional life. 
 Java, Kotlin, Maven, Groovy, Angular, Docker, Podman, Kubernetes, Openshift, Oracle 11g, PL / SQL, MySQL, Hibernate, 
